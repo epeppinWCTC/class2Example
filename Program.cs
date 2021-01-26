@@ -2,11 +2,13 @@
 
 namespace Class_2
 {
-    class Program
+    class NewBaseType
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! 2");
+            Console.WriteLine("Yo Man");
+            System.Console.WriteLine("Hello x2");
         }
     }
 }
+
